@@ -817,3 +817,6 @@ graph LR
 | **Frontend** | React + WebSocket | Included | Real-time chat, staff dashboard |
 
 **This is the complete, practical architecture with realistic costs ($62-287/month) and comprehensive analytics infrastructure for real business intelligence!** 🏨 
+
+# **Scaling Plan**
+We can discuss it in the call as I feel like this is enough for now, but already did the outline for it too.
