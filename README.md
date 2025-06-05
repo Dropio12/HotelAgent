@@ -820,3 +820,6 @@ graph LR
 
 # **Scaling Plan**
 We can discuss it in the call as I feel like this is enough for now, but already did the outline for it too so clients can automatically sign up to our website and use our software in minutes after paying.
+
+https://lovable.dev/projects/2bd7117a-b57f-4954-92d1-c5b88c3c1195
+
